@@ -1,8 +1,9 @@
 package ua.com.foxminded.education;
 
+import java.util.List;
 import java.util.Objects;
 
-public class Course {
+public class Course  {
 	 String name;
 
 	public Course(String name) {
